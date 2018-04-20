@@ -1,0 +1,4 @@
+﻿  odd_even_justif.cpp
+c:\users\한정석\documents\cs_prac\odd_even\odd_even_justif\odd_even_justif\odd_even_justif.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  odd_even_justif.vcxproj -> C:\Users\한정석\Documents\cs_prac\odd_even\odd_even_justif\Debug\odd_even_justif.exe
